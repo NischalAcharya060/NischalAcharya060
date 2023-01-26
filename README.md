@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grdhravan&label=Profile%20views&color=0e75b6&style=flat" alt="grdhravan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nischal79783380" target="blank"><img src="https://img.shields.io/twitter/follow/nischal79783380?logo=twitter&style=for-the-badge" alt="nischal79783380" /></a> </p>
-
 - 🌱 I’m currently learning **React Native Django Node**
 
 - 👨‍💻 All of my projects are available at [https://acharyanischal.com.np](https://acharyanischal.com.np)
