@@ -1,4 +1,4 @@
-(![Nischal Banner](https://user-images.githubusercontent.com/88274356/215042994-88e1c793-8b47-46d4-a2f9-197352bd2e99.gif)
+![Nischal Banner](https://user-images.githubusercontent.com/88274356/215042994-88e1c793-8b47-46d4-a2f9-197352bd2e99.gif)
 
 <h1 align="center">Hi 👋, I'm Nischal Acharya</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
