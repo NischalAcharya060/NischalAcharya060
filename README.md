@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Nischal Acharya</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<img align="right" alt="proggrammer gif" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
+<img align="right" alt="proggrammer gif" width="400" src="https://static.vecteezy.com/system/resources/previews/002/178/149/original/developer-working-on-code-free-vector.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grdhravan&label=Profile%20views&color=0e75b6&style=flat" alt="grdhravan" /> </p>
 
