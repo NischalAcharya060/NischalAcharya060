@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Nischal Acharya</h1>
 <h3 align="center">A passionate Full-Stack developer from Nepal</h3>
-<!-- <img align="right" alt="proggrammer gif" width="400" src="https://arpanneupane.com/static/media/home-image.3693311f.gif">
- -->
+<img align="right" alt="proggrammer gif" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
+
 
 - 🌱 I’m currently learning **React Native Django Node Laravel**
 
