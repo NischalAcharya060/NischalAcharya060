@@ -1,25 +1,158 @@
-![Nischal Banner](https://user-images.githubusercontent.com/88274356/215042994-88e1c793-8b47-46d4-a2f9-197352bd2e99.gif)
+![Nischal Acharya Banner](https://i.postimg.cc/Nfz09XD8/Cover-Pic-Gif.gif)
 
 <h1 align="center">Hi 👋, I'm Nischal Acharya</h1>
-<h3 align="center">A passionate Full-Stack developer from Nepal</h3>
-<img align="right" alt="proggrammer gif" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
+<h3 align="center">🚀 A passionate Full-Stack Developer from Nepal</h3>
 
-# 💫 About Me:
-🌱 I’m currently learning React Native Django Node Laravel<br><br>👨‍💻 All of my projects are available at https://acharyanischal.com.np<br><br>💬 Ask me about PHP, HTML, Css, Javascript<br><br>📫 How to reach me Nischal060@gmail.com
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nischal.Acharya.58760) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_nischalacharya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nischal-acharya101) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/grdhravan) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NischalAcharya060&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NischalAcharya060&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NischalAcharya060&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://komarev.com/ghpvc/?username=NischalAcharya060&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=NischalAcharya060&icon=0&color=0)](https://visitcount.itsvg.in)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+- 🔭 Currently building **production-level MERN stack applications**
+- 🌱 Learning **Next.js, TypeScript & System Design**
+- 🧠 Focused on **clean architecture & scalable backend systems**
+- 👯 Open to collaborate on **Open Source & Real-world Projects**
+- 💬 Ask me about **React, Node.js, APIs, Full-Stack Dev**
+- ⚡ Fun fact: *I simplify complex problems into clean UI/UX*
+
+---
+
+## 🚀 Featured Projects
+
+## 🥇 Wavify (Flagship Project)
+### 🎵 Full-Stack Music Streaming Platform (Spotify-like)
+
+🔗 Live: https://wavify-grdhravan.vercel.app/
+
+**Description:**
+A modern music streaming platform that plays audio using YouTube API with a fully functional full-stack architecture.
+
+**Key Features:**
+- 🔐 Authentication system
+- 🎧 Music streaming experience
+- 🛒 Cart-like playlist management
+- ⚡ Fast UI with modern design
+- 📱 Responsive across all devices
+
+**Tech Stack:**
+`Next Js` `Typescript` `Tailwind` `Supabase` `Zustand`
+
+---
+
+## 🥈 BillBuddy
+### 📊 Smart Expense & Bill Tracking System
+
+🔗 GitHub: https://github.com/NischalAcharya060/BillBuddy
+
+**Description:**
+A productivity-focused application that helps users track expenses, manage bills, and set reminders efficiently.
+
+**Key Features:**
+- 💰 Expense tracking system
+- ⏰ Bill reminders
+- 📊 Clean dashboard UI
+- 📱 Simple and user-friendly design
+
+**Tech Stack:**
+`React Native` `Css` `Javascript` `Firebase`
+
+---
+
+## 🥉 Portfolio Website
+### 🌐 Developer Portfolio (Personal Branding Site)
+
+🔗 Live: https://acharyanischal.com.np
+
+**Description:**
+A personal portfolio showcasing my skills, projects, and developer journey.
+
+**Tech Stack:**
+`React`
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,cs,dart,php" />
+</p>
+
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,next,tailwind,bootstrap,sass" />
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,laravel,dotnet" />
+</p>
+
+### 📱 Mobile
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,react" />
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx" />
+</p>
+
+### 🧰 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,linux,postman,anaconda,apache" />
+</p>
+
+### 🎨 Design
+<p>
+<img src="https://skillicons.dev/icons?i=figma,ps" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/nischal-acharya101"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://github.com/NischalAcharya060"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+<a href="https://instagram.com/its_nischalacharya"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+<a href="https://facebook.com/Nischal.Acharya.58760"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
+</p>
+
+---
+
+## 🌍 Portfolio & Resume
+
+- 🌐 Portfolio: https://acharyanischal.com.np  
+- 📝 Blog: https://acharyanischal.com.np/#blog  
+- 📄 Resume: https://drive.google.com/file/d/1koGD_UgyC7B-edJr0ODyna0KpFiOQ70n/view  
+- 📫 Email: **Nischal060@gmail.com**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NischalAcharya060&theme=radical" width="48%" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- 🚀 Build **real-world SaaS projects**
+- 📚 Master **System Design & Backend Scaling**
+- 🌍 Contribute to **Open Source regularly**
+- 💼 Land **high-quality developer opportunities**
+
+---
+
+⭐ *Always building. Always improving.*
